@@ -378,13 +378,13 @@ header {
   }
   @media (max-width:991px ){
     .first .exp .exp-text h2 {
-      font-size: 35px;
+      font-size: 20px;
     }
     .first .exp .exp-text p {
-      font-size: 20px;
+      font-size: 10px;
     }  
     .first .exp .exp-text button {
-        font-size: 20px;
+        font-size: 10px;
       }  
   }
   @media (max-width:767px ){
@@ -392,13 +392,13 @@ header {
       width: 100%;
     }
     .first .exp .exp-text h2 {
-      font-size: 30px;
+      font-size: 20px;
     }
     .first .exp .exp-text p {
-      font-size: 18;
+      font-size: 15;
     }
     .first .exp .exp-text button {
-        font-size: 20px;
+        font-size: 10px;
       }  
   }
     /* ending of main first section */

@@ -749,8 +749,8 @@ header {
 }
 @media (max-width:767px) {
   .products .products-items .product-item .product-img .product-overlay ul li{
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   background-color: #a16f5b;
   display: inline-block;
   text-align: center;
@@ -772,7 +772,7 @@ header {
   .products .products-items .product-item .product-img .product-overlay ul li i {
     color: #fff;
     padding: 8px 0 8px 0;
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 
